@@ -3,3 +3,5 @@ Scripts in the ScriptUI Panels folder are designed with user interfaces that app
 Existing scripts that use a palette or window for their main user interface need to be adapted for use in a dockable panel; see the After Effects scripting documentation for details). Scripts that use dialog boxes are not as easily adapted.
 
 You can add your own scripts to the ScriptUI Panels folder.
+
+Let me add some info
